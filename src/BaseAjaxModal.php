@@ -2,8 +2,8 @@
 
 namespace zafarjonovich\Yii2AjaxModal;
 
-use yii\bootstrap4\Html;
-use yii\bootstrap4\Modal;
+use yii\bootstrap5\Html;
+use yii\bootstrap5\Modal;
 use yii\helpers\Url;
 use yii\web\JsExpression;
 use yii\web\View;
